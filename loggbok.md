@@ -1,4 +1,12 @@
 # **loggbok
+
+## *16/11*
+Idag gjorde jag 2 prov, försökte fixa collissions i mitt spel och vi började brainstorma om spelet vi ska göra som UF-företag. Vi bestämde oss att vi behöver en touch-skärm av borealis innan vi borde börja med det spelet, så för tillfället fortsätter jag med mitt egna. Jag fick som sagt inte colissionsen att fungera idag men jag fortsätter med det nästa gång.
+
+##*13/11*
+idag började jag att göra ett spel enligt en tutorial, och det har gått väldigt bra. Jag har börjat lära mig om colission boxes, tilemaps, tilesets och hur man använder sig av sprites.
+https://www.youtube.com/watch?v=5V9f3MT86M8&t=730s
+
 ## *6/11*
 Idag satt jag både och uppdaterade datorn då archlinux strulade men också kollade jag på videor om hur man gör både top-down och 2d spel. Jag vet inte vilken jag vill göra än, då top-down kanske är jobbigare att göra men ger mer kreativ frihet i level-design.
 videosarna jag kollade på: 
