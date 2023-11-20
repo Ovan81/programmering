@@ -1,5 +1,9 @@
 # **loggbok
 
+## *20/11*
+idag började jag egna tiden av lektionen med att plugga på listor och funktioner, för att sedan börja kolla på hur man gör ett top-down spel, eftersom borealis vill ha ett från vårt UF-företag. Nu börjar jag verkligen förstå mig på pixel formatet, tilemaps, tilesets och vad nodes, scenes och scripts är och hur de fungerar i godot. Det är lite ovant att se kod i gd eftersom det liknar javascript mer än python, men jag har använt javascript förut då jag har moddat spel jag spelat, alltså borde det inte vara världens största problem att lära mig det.
+
+
 ## *16/11*
 Idag gjorde jag 2 prov, försökte fixa collissions i mitt spel och vi började brainstorma om spelet vi ska göra som UF-företag. Vi bestämde oss att vi behöver en touch-skärm av borealis innan vi borde börja med det spelet, så för tillfället fortsätter jag med mitt egna. Jag fick som sagt inte colissionsen att fungera idag men jag fortsätter med det nästa gång.
 
