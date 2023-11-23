@@ -1,5 +1,8 @@
 # **loggbok**
 
+## *23/11*
+Idag gjorde jag inte mycket utom prover på lektionen för jag var väldigt trött. Jag jobbade dock programmering på studiepasser där jag fortsatte med grunderna för topdown spel, samt jag tänker jobba lite programamering på 5h bussresan imorgon.
+
 ## *20/11*
 idag började jag egna tiden av lektionen med att plugga på listor och funktioner, för att sedan börja kolla på hur man gör ett top-down spel, eftersom borealis vill ha ett från vårt UF-företag. Nu börjar jag verkligen förstå mig på pixel formatet, tilemaps, tilesets och vad nodes, scenes och scripts är och hur de fungerar i godot. Det är lite ovant att se kod i gd eftersom det liknar javascript mer än python, men jag har använt javascript förut då jag har moddat spel jag spelat, alltså borde det inte vara världens största problem att lära mig det.
 
