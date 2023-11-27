@@ -1,5 +1,11 @@
 # **loggbok**
 
+## *24/11*
+Standup: idag ska jag lära mig om funktioner och fortsätta lära mig topdown spel.
+
+Idag lärde jag mig om funktioner och fortsatte lite smått med spelet. Jag kände att funktioner inte var något speciellt svårt så det var najs. Jag märkte dock att videon jag följde förut inte var baserad i rätt version av godot, så jag byter till en annan nu men fortsätter med samma godotfil ungefär där jag var.
+nya videon:https://www.youtube.com/watch?v=Luf2Kr5s3BM&t=2413s
+
 ## *23/11*
 Idag gjorde jag inte mycket utom prover på lektionen för jag var väldigt trött. Jag jobbade dock programmering på studiepasser där jag fortsatte med grunderna för topdown spel, samt jag tänker jobba lite programamering på 5h bussresan imorgon.
 
