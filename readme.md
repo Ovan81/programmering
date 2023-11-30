@@ -1,5 +1,7 @@
 # **loggbok**
 
+## *30/11*
+idag började jag med "gradkonvertering extra" eftersom jag kände att jag inte gjort ett rikard projekt på ett tag. Jag har definerat hela funktionen jag behöver samt fått alla värden inmatade men jag behöver lite mer tid för att sätta ihop allt. Lägger in filen när jag blir fördig med den :)
 ## *25/11*
 Eftersom vi ska byta datorer idag så lägger jag upp båda ofärdiga godotprojekten här :)
 
