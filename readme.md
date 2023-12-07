@@ -1,5 +1,8 @@
 # **loggbok**
 
+## *7/12*
+idag gjorde jag först test, sedan återinstallerade jag github och vscodium eftersom vi har nya datorer och sist började jag på blackjack med ebbe :) Inget var hjättesvårt men det var tidskrävande och jag lärde mig mer om random importeringen, t.ex. att man importerar slumpat objekt i en lista med random.choice.
+
 ## *30/11*
 idag började jag med "gradkonvertering extra" eftersom jag kände att jag inte gjort ett rikard projekt på ett tag. Jag har definerat hela funktionen jag behöver samt fått alla värden inmatade men jag behöver lite mer tid för att sätta ihop allt. Lägger in filen när jag blir fördig med den :)
 ## *25/11*
