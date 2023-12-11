@@ -1,5 +1,8 @@
 # **loggbok**
 
+## *11/12*
+Idag satt jag hela lektionen med att ominstallera allt viktigt på min dator då "någon" laddade ner och startade en fil på min dator som hette "suicide-linux". Den tog bort hela mitt os, så efter att joel ominstallerade ubuntu tidigare så satt jag och fixade med github, wine, codium, med mera.
+
 ## *7/12*
 idag gjorde jag först test, sedan återinstallerade jag github och vscodium eftersom vi har nya datorer och sist började jag på blackjack med ebbe :) Inget var hjättesvårt men det var tidskrävande och jag lärde mig mer om random importeringen, t.ex. att man importerar slumpat objekt i en lista med random.choice.
 
