@@ -1,5 +1,8 @@
 # **loggbok**
+länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
+## *18/12*
 
+Idag började jag med UF-spelets meny, och har fått det att fungera. Jag förstod mig inte riktigt på hur timer objektet fungerade, vilket jag ska försöka ta itu med nästa lektion. Generellt har det gått väldigt bra denna lektionen dock :)
 ## *11/12*
 Idag satt jag hela lektionen med att ominstallera allt viktigt på min dator då "någon" laddade ner och startade en fil på min dator som hette "suicide-linux". Den tog bort hela mitt os, så efter att joel ominstallerade ubuntu tidigare så satt jag och fixade med github, wine, codium, med mera.
 
