@@ -1,8 +1,13 @@
 # **loggbok**
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
-## *18/12*
+länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+## *15/1*
+idag jobbade jag med blackjacket, och bestämde med dig att vi skulle göra det objekt-orienterat när jag blev färdig. Jag tyckte att ebbes var för rörigt, så jag började helt om från grunden, då jag tror att det kommer ta lika lång tid ändå.
+Allt idag gick bra, men det svåraste var defenitivt att bestämma hur jag kunde ha en viktbaserad kortlista där man kan skilja på färgerna.
+## *18/12*
 Idag började jag med UF-spelets meny, och har fått det att fungera. Jag förstod mig inte riktigt på hur timer objektet fungerade, vilket jag ska försöka ta itu med nästa lektion. Generellt har det gått väldigt bra denna lektionen dock :)
+
 ## *11/12*
 Idag satt jag hela lektionen med att ominstallera allt viktigt på min dator då "någon" laddade ner och startade en fil på min dator som hette "suicide-linux". Den tog bort hela mitt os, så efter att joel ominstallerade ubuntu tidigare så satt jag och fixade med github, wine, codium, med mera.
 
