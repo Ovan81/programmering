@@ -2,6 +2,9 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+##*18/1*
+Idag fortsatte jag med viktbaserade funktionen i blackjack, för att kunna få reda på vilket kort jag tog ut ur hela kortleken. Det fungerar, men nu ska jag också komma på hur man kan använda det på ett rimligt sätt. Det har gått bra idag :)
+
 ## *15/1*
 idag jobbade jag med blackjacket, och bestämde med dig att vi skulle göra det objekt-orienterat när jag blev färdig. Jag tyckte att ebbes var för rörigt, så jag började helt om från grunden, då jag tror att det kommer ta lika lång tid ändå.
 Allt idag gick bra, men det svåraste var defenitivt att bestämma hur jag kunde ha en viktbaserad kortlista där man kan skilja på färgerna.
