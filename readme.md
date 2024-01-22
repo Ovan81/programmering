@@ -2,7 +2,9 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
-##*18/1*
+## *22/1*
+idag kunde jag inte jobba få jag glömt min laddare på hogia, vi hade distans och jag hittade ingen usb-c med tillräckligt hög watt för att min dator skulle starta. när jag försöker öppna min pythonfil på min hemmadator klagade python på att jag saknar en microsoft redistributable som jag redan har.
+## *18/1*
 Idag fortsatte jag med viktbaserade funktionen i blackjack, för att kunna få reda på vilket kort jag tog ut ur hela kortleken. Det fungerar, men nu ska jag också komma på hur man kan använda det på ett rimligt sätt. Det har gått bra idag :)
 
 ## *15/1*
