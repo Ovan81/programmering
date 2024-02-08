@@ -2,6 +2,9 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+## *02/08*
+
+Idag fortsatte jag med blackjacket och försökte få klasserna att fungera så jag vill. Jag lade in ett sätt att märka om man skriver antal spelare som en integer, men jag hann inte jättemycket mer än det då jag också pratade med ronnie om att låna hårdvara för en server.
 ## *22/1*
 idag kunde jag inte jobba få jag glömt min laddare på hogia, vi hade distans och jag hittade ingen usb-c med tillräckligt hög watt för att min dator skulle starta. när jag försöker öppna min pythonfil på min hemmadator klagade python på att jag saknar en microsoft redistributable som jag redan har.
 ## *18/1*
