@@ -2,7 +2,16 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
-## *02/08*
+## *26/02*
+idag gjorde jag också UF då vi behöver bli helt färdiga med allt innan onsdag, men jag tänker att jag tar ikapp dessa tre lektionerna på fritiden när mässan har varit.
+
+## *22/02*
+Samma idag med, men gjorde lite programmering också.
+
+## *19/02*
+idag jobbade jag med Uf då vi behövde fixa inför UF-mässan.
+
+## *08/02*
 
 Idag fortsatte jag med blackjacket och försökte få klasserna att fungera så jag vill. Jag lade in ett sätt att märka om man skriver antal spelare som en integer, men jag hann inte jättemycket mer än det då jag också pratade med ronnie om att låna hårdvara för en server.
 ## *22/1*
