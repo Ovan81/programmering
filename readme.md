@@ -2,6 +2,8 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+## *07/03*
+idag är mitt mål att få i ordning klasserna och fixa kortutdelningen, alltså få problemen från förra lektionen lösta.
 ## *04/03*
 idag fortsatte jag att ställa upp classerna i mitt projekt samt fixa med kortutdelningen, men jag har problem med hur jag ska spara korten som är kvar. Jag planerar att lösa detta nästa lektion.
 
