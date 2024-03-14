@@ -2,6 +2,9 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+## *14/03*
+Fortsatte med blackjacket, märkt att jag behöver ändra på mina klasser och helt hur kortutdelningen fungerar då den slutar fungera ifall alla kort av samma sort (alla klöver, spader, etc.) tar slut innan spelet tar slut. Jag kan lätt fixa detta genom att göra det till en lista med värden som jag omdefinerar istället för att göra det så som jag gjort. Detta är vad jag tänker göra nästa lektion!
+
 ## *07/03*
 idag är mitt mål att få i ordning klasserna och fixa kortutdelningen, alltså få problemen från förra lektionen lösta.
 
