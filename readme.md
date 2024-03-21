@@ -2,6 +2,17 @@
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+## *21/03*
+idag började jag om med min blackjack eftersom min struktur var så dålig, så det var lättare att starta om helt enkelt. 
+
+    class Deck:
+        deck=[]
+        def resetdeck(self):
+            self.deck.clear()
+            for i in range (1,53):
+                self.deck.append(i)
+
+Jag gjorde om min viktbaserade kortlek till dessa kodrader, man kan ju säga att det krymptes lite granna. Nästa sak jag ska göra är att välja suite och dra kort, men det är väldigt enkelt.
 ## *14/03*
 Fortsatte med blackjacket, märkt att jag behöver ändra på mina klasser och helt hur kortutdelningen fungerar då den slutar fungera ifall alla kort av samma sort (alla klöver, spader, etc.) tar slut innan spelet tar slut. Jag kan lätt fixa detta genom att göra det till en lista med värden som jag omdefinerar istället för att göra det så som jag gjort. Detta är vad jag tänker göra nästa lektion!
 
