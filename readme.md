@@ -5,7 +5,7 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
-##*25/03*
+## *25/03*
 från och med nästa vecka tänker jag skriva veckobaserat istället för lektionsbaserat, eftersom jag kommer arbeta mer hemma. 
 
 Förra veckan på hobbyspelet fick jag online multiplayer att helt och hållet fungera, då jag och t.ex. joel kunde joina varandra via steam och ha syncad movement. 
