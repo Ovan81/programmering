@@ -1,7 +1,9 @@
 # **loggbok**
 länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
+
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
+länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 ## *21/03*
 idag började jag om med min blackjack eftersom min struktur var så dålig, så det var lättare att starta om helt enkelt. 
 
