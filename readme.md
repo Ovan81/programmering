@@ -4,6 +4,14 @@ länk till UF-repositoriet:https://github.com/luckelc/interactive_uf
 länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
+
+##*25/03*
+från och med nästa vecka tänker jag skriva veckobaserat istället för lektionsbaserat, eftersom jag kommer arbeta mer hemma. 
+
+Förra veckan på hobbyspelet fick jag online multiplayer att helt och hållet fungera, då jag och t.ex. joel kunde joina varandra via steam och ha syncad movement. 
+
+på lektionen idag fixade jag min gamla kod så den fungerade bättre, samt diskuterade med Lucas angående hobbyspelet. Det gick ganska trögt idag, men jag tänker jobba ikapp på påsklovet. Det svåraste idag var nog att få funktionerna att agera exakt så jag ville, men inget var speciellt krävande. 
+
 ## *21/03*
 idag började jag om med min blackjack eftersom min struktur var så dålig, så det var lättare att starta om helt enkelt. 
 
