@@ -5,6 +5,36 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
+## *Vecka 15*
+Denna veckan har jag fixat den nya viktbaserade kortvalningen för mitt omgjorda blackjack. Nu fungerar det som en riktig kortlet, där den blandas, sedan dras det översta kortet från kortleken, men jag har inte hunnit göra att man drar än. 
+
+    class Card:
+        suit = ""
+        def cardtype(self,deck):
+            if deck[0] <= 13:
+                self.suit= "clubs"
+            elif deck[0] > 13 and deck[0] <= 26:
+                self.suit = "diamonds"
+            elif deck[0] > 26 and deck[0] <= 39:
+                self.suit = "hearts"
+            else:
+                self.suit = "spades"
+            print(self.suit)
+        
+        def cardvalue(self, deck): 
+            if deck[0] <= 13:
+                None
+            elif deck[0] >= 13 and deck[0] < 26:
+                deck[0] -= 13
+            elif deck[0] >= 26 and deck[0] < 39:
+                deck[0] -= 26
+            else:
+                deck[0] -= 39
+            print(deck[0])
+            
+Detta är det jag gjort i "card-klassen" denna veckan, och jag tycker att denna lösningen känns smart. 
+        
+
 ## *25/03*
 från och med nästa vecka tänker jag skriva veckobaserat istället för lektionsbaserat, eftersom jag kommer arbeta mer hemma. 
 
