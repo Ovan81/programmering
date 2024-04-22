@@ -5,6 +5,10 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
+
+## * Vecka 16*
+denna veckan fortsatte jag att göra blackjacket, och lärde mig mer om objekt. Jag skapade t.ex. en master funktion i "game" klassen, samt lärde mig att alla objekt bör ligga i game klassen, för dens objekt sedan ska ligga utanför.
+
 ## *Vecka 15*
 Denna veckan har jag fixat den nya viktbaserade kortvalningen för mitt omgjorda blackjack. Nu fungerar det som en riktig kortlet, där den blandas, sedan dras det översta kortet från kortleken, men jag har inte hunnit göra att man drar än. 
 
