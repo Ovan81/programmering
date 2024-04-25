@@ -5,6 +5,10 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
+## *Vecka 17*
+denna veckan började jag att fortsätta med blackjacket, och lärde mig var constuctors var och varför self används i python till skillnad från andra språk, för att förstå objektorienterad programmering bättre. Jag förstod hur det fungerar, men jag förstår inte riktigt varför man ska definiera constructors t.ex. genom att skriva __init__ istället för att inte skriva något alls.
+
+på torsdagen så förstod jag att objektorienterad programmering ej är i kursen, så jag tänker göra ett snabbt blackjack för att ha ett färdigt bedömningsprojekt, för att sedan lära mig mer om objektorienterat igen. Starten med detta "ezblackjack" har gått smidigt, och jag tror jag blir färdig denna eller nästa vecka (kan dock vara en gnutta tidsomtimistkt.)
 
 ## * Vecka 16*
 denna veckan fortsatte jag att göra blackjacket, och lärde mig mer om objekt. Jag skapade t.ex. en master funktion i "game" klassen, samt lärde mig att alla objekt bör ligga i game klassen, för dens objekt sedan ska ligga utanför.
