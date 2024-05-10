@@ -8,93 +8,69 @@ länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch
 ## *vecka 19*
 Denna veckan har jag kommit en bra bit i blackjacket, i filen kallad "ezblackjack". Nu kan jag dra kort ur en kortlek som försvinner, lägga dem i händer, bestämma deras värde och färg med mera. Jag började också att experimentera med olika rundor, så ett värde bestämmer vem som får spela, men jag bestämmde att detta ej kommer behövas. 
 
-nästan allt detta gjorde jag på fredagen:
-def play(question):
-    isplaying = ""
+Detta och mer gjorde jag på fredagen:
     
-    while isplaying !=True and isplaying != False:
-        play=input(question).lower()
-        if play == "y":
-            isplaying = True
-        elif play == "n":
-            isplaying = False
-            print("too bad :(")
+    def cardindex (card): 
+        cardvalue=card
+        if cardvalue <= 13:
+            None
+        elif cardvalue >= 13 and cardvalue < 26:
+            cardvalue -= 13
+        elif cardvalue >= 26 and cardvalue < 39:
+            cardvalue -= 26
         else:
-            play=input("type y or n, please.").lower()
-    return isplaying
-
-def cardsuit(card):
-    if card <= 13:
-        suit= "clubs"
-    elif card > 13 and card <= 26:
-        suit = "diamonds"
-    elif card > 26 and card <= 39:
-        suit = "hearts"
-    else:
-        suit = "spades"
-
-    return suit
-
-def cardindex (card): 
-    cardvalue=card
-    if cardvalue <= 13:
-        None
-    elif cardvalue >= 13 and cardvalue < 26:
-        cardvalue -= 13
-    elif cardvalue >= 26 and cardvalue < 39:
-        cardvalue -= 26
-    else:
-        cardvalue -= 39
-
-    if cardvalue == 1:
-        cardvalue ="ace"
-    elif cardvalue == 11:
-        cardvalue = "knight"
-    elif cardvalue == 12:
-        cardvalue = "queen"
-    elif cardvalue == 13:
-        cardvalue = "king"
-    else:
-        None
-    return cardvalue
+            cardvalue -= 39
+    
+        if cardvalue == 1:
+            cardvalue ="ace"
+        elif cardvalue == 11:
+            cardvalue = "knight"
+        elif cardvalue == 12:
+            cardvalue = "queen"
+        elif cardvalue == 13:
+            cardvalue = "king"
+        else:
+            None
+        return cardvalue
+        
+        
+    
+    def addcardtohand(deck, hand):
+            tempcard = deck[0]
+            deck.pop(0)
+            hand.append(tempcard)
     
     
-
-def addcardtohand(deck, hand):
-        tempcard = deck[0]
-        deck.pop(0)
-        hand.append(tempcard)
-
-
-while play(question) == True:
-    deck.clear
-    for i in range(1,53):
-        deck.append(i)
-    random.shuffle(deck)
+    while play(question) == True:
+        deck.clear
+        for i in range(1,53):
+            deck.append(i)
+        random.shuffle(deck)
+            
+    
+    
+        addcardtohand(deck, playerhand)
+        cardtype=cardsuit(playerhand[-1])
+        cardvalue=cardindex(playerhand[-1])
+        print("you got", cardvalue, "of", cardtype + "!")
+    
+        addcardtohand(deck, computerhand)
+        cardtype=cardsuit(computerhand[-1])
+        cardvalue=cardindex(computerhand[-1])
+        print("The dealer got", cardvalue, "of", cardtype + "!")
+    
+        addcardtohand(deck, playerhand)
+        cardtype=cardsuit(playerhand[-1])
+        cardvalue=cardindex(playerhand[-1])
+        print("you got", cardvalue, "of", cardtype + "!")
+        
+    
+       
+    
+        question = ("do you want to play again? (y/n)")
         
 
-
-    addcardtohand(deck, playerhand)
-    cardtype=cardsuit(playerhand[-1])
-    cardvalue=cardindex(playerhand[-1])
-    print("you got", cardvalue, "of", cardtype + "!")
-
-    addcardtohand(deck, computerhand)
-    cardtype=cardsuit(computerhand[-1])
-    cardvalue=cardindex(computerhand[-1])
-    print("The dealer got", cardvalue, "of", cardtype + "!")
-
-    addcardtohand(deck, playerhand)
-    cardtype=cardsuit(playerhand[-1])
-    cardvalue=cardindex(playerhand[-1])
-    print("you got", cardvalue, "of", cardtype + "!")
     
-
-   
-
-    question = ("do you want to play again? (y/n)")
-    
-
 ## *vecka 18*
 har helt glömt att skriva för denna veckan, men antar att jag fortsatte med det icke objektorienterade.
 
