@@ -5,6 +5,10 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
+
+## *vecka 20*
+
+Denna veckan fick jag gjort ganska mycket trots att jag bara kunde arbeta på en av lektionerna. Jag har gjort en funktion för att kolla om man bustar, men min lösning för att se om man vinner fungerar inte super. Dessutom har jag nästan gjort färdigt en "hit or stand" funktion, men och nästa gång ska jag fixa så att denna funktionen kan urskilja mellan datorhanden och spelarhanden, eftersom detta ej funkar just nu.
 ## *vecka 19*
 Denna veckan har jag kommit en bra bit i blackjacket, i filen kallad "ezblackjack". Nu kan jag dra kort ur en kortlek som försvinner, lägga dem i händer, bestämma deras värde och färg med mera. Jag började också att experimentera med olika rundor, så ett värde bestämmer vem som får spela, men jag bestämmde att detta ej kommer behövas. 
 
