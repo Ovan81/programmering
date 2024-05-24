@@ -5,7 +5,8 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
-
+## *vecka 21 -- Blackjack är färdigt under filen "ezblackjack*
+Denna veckan gjorde jag färdigt mitt blackjack, då jag fixade det som ej fungerade från förra vecka, fixade lite problem med kortens värden t.ex. att ess inte bytte mellan 1 och 11, och sedan importerade time för att göra lite delay mellan alla prints. Denna veckans programmering bestod alltså mestadels av felsökning, men inget var särskilt jobbigt.
 ## *vecka 20*
 
 Denna veckan fick jag gjort ganska mycket trots att jag bara kunde arbeta på en av lektionerna. Jag har gjort en funktion för att kolla om man bustar, men min lösning för att se om man vinner fungerar inte super. Dessutom har jag nästan gjort färdigt en "hit or stand" funktion, men och nästa gång ska jag fixa så att denna funktionen kan urskilja mellan datorhanden och spelarhanden, eftersom detta ej funkar just nu.
