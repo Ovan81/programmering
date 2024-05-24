@@ -5,7 +5,7 @@ länk till mitt blackjack:https://github.com/Ovan81/blackjack
 
 länk till hobbyspelet:https://github.com/wedonthaveaname/casting-couch 
 
-## *vecka 21 -- Blackjack är färdigt under filen "ezblackjack*
+## *vecka 21 -- Blackjack är färdigt under filen "ezblackjack""
 Denna veckan gjorde jag färdigt mitt blackjack, då jag fixade det som ej fungerade från förra vecka, fixade lite problem med kortens värden t.ex. att ess inte bytte mellan 1 och 11, och sedan importerade time för att göra lite delay mellan alla prints. Denna veckans programmering bestod alltså mestadels av felsökning, men inget var särskilt jobbigt.
 ## *vecka 20*
 
